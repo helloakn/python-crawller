@@ -1,3 +1,10 @@
 # python-crawller
-## crawl
-scrapy runspider ./scripts/scraper.py
+
+## Install
+pip3 install -r requirements.txt
+
+## run 
+ python3 main.py
+
+## Crawl 
+ python3 main.py thai
